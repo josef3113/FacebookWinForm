@@ -1,9 +1,0 @@
-==========================Exercise Checking Report==========================
-Exercise No...........: 3
-First Student Details.: 311303333 - Yosef Sydon
-Second Student Details: 309823011 - Sima Weiss
-Delivery Date.........: 18 - September - 2019
-Delivered In Delay....: No
-Delay Reason..........: -
-Comments..............: Add facebook dll's to FBLogic and WindowsFormsFacebook
-========================End Exercise Checking Report========================
